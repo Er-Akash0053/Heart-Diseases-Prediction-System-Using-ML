@@ -38,6 +38,3 @@ Users can download the dataset directly.
 # How to Run
 pip install numpy pandas scikit-learn matplotlib seaborn  
 jupyter notebook
-
-## 👨‍💻 Author
-Akash Karale
